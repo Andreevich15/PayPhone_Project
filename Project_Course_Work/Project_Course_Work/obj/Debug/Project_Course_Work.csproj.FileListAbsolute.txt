@@ -1,0 +1,22 @@
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\bin\Debug\Project_Course_Work.exe.config
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\bin\Debug\Project_Course_Work.exe
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\bin\Debug\Project_Course_Work.pdb
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.Payphone.resources
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.Properties.Resources.resources
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.exe
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.pdb
+C:\Users\Max\Desktop\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\bin\Debug\Project_Course_Work.exe.config
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.exe
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.pdb
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\bin\Debug\Project_Course_Work.exe
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\bin\Debug\Project_Course_Work.pdb
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.csprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.Payphone.resources
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.Properties.Resources.resources
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.Journal.resources
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\bin\Debug\NAudio.dll
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\bin\Debug\NAudio.xml
+C:\Users\Max\Desktop\Курсовая работа\Project_Course_Work\Project_Course_Work\obj\Debug\Project_Course_Work.ReceiverCardForm.resources
